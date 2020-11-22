@@ -1,6 +1,6 @@
 id=CallRecordingFix
 name=Call Recording Fix
-version=v2007
-versionCode=2007
+version=v2009
+versionCode=2009
 author=Boldbeast
 description=Three wonderful features: (1) Fix call recording problems so that both your voice and the caller's voice will be recorded perfectly. (2) Record video calls and voice calls from apps such as Whatsapp, Skype, Google Voice, Zoom Video Conferencing etc. (3) Record video streaming, music streaming, game playing and app using etc, audio saved is lossless (internal recording). Please refer to README.md for more info.
