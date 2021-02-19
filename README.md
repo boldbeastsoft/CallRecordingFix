@@ -31,4 +31,4 @@ Thanks to topjohnwu for his great Magisk that powers this module.
 
 
 ## Version
-V2010
+V2011
